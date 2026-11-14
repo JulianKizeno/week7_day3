@@ -1,6 +1,4 @@
 import React from 'react';
-import Experience from '../experience/Experience';
-import Education from '../education/Education';
 
 const about = ({ name }) => {
     return (
